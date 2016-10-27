@@ -1,5 +1,8 @@
 [![DeepScan Grade](http://a5811e54.ngrok.io/api/projects/314/branches/240/badge/grade.svg)](http://dev.deepscan.io:5001/lite/#view=project&pid=314&bid=240)
 
+<a href="http://a5811e54.ngrok.io/lite/#view=project&pid=314&bid=240"><img src="http://dev.deepscan.io:5012/api/projects/314/branches/240/badge/grade.svg" alt="DeepScan Grade"></a>
+
+
 [jQuery](https://jquery.com/) — New Wave JavaScript
 ==================================================
 
